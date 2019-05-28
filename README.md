@@ -17,7 +17,7 @@ History​
 
 Globbing​
 
-Inhibitor et backtick​
+Inhibitor and backtick​
 
 Alias​
 
