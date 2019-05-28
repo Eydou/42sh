@@ -1,6 +1,7 @@
 # 42sh EPITECH 2018
 
-Creating a shell like tcsh: <a href="https://github.com/LopesAlexis">Alexis Lopes</a>, <a href="https://github.com/Sharkigamers">Gabriel Danjon</a>
+Creating a shell like tcsh
+Project at 4: <a href="https://github.com/Eydou">Edouard Touch</a>, <a href="https://github.com/LopesAlexis">Alexis Lopes</a>, <a href="https://github.com/Sharkigamers">Gabriel Danjon</a>
 
 Fonctional control :
 
